@@ -1,0 +1,8 @@
+- books
+- sports
+  - cycling
+  - swimming
+  - car races
+  - skiing
+- spending time with family
+- spending time with friends
