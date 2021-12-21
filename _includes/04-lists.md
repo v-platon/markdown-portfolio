@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- books
+- sports
+  - cycling
+  - swimming
+  - car races
+  - skiing
+- spending time with family
+- spending time with friends
